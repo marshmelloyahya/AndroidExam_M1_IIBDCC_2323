@@ -2,9 +2,8 @@
 
 # Demo Video :
 
-[![AndroidExam_M1_IIBDCC_2323 Yahya Ouali Demo: 55]          // Title
-(![image](https://github.com/marshmelloyahya/AndroidExam_M1_IIBDCC_2323/assets/99083781/1e99163b-61fb-4090-923c-e6261a9d3ffe)
-)] // Thumbnail
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
 (https://youtube.com/shorts/zFXho3zLgNE "AndroidExam_M1_IIBDCC_2323 Yahya Ouali Demo: 55")    // Video Link
 
 
