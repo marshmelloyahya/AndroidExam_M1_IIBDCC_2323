@@ -2,7 +2,10 @@
 
 # Demo Video :
 
-[<img src="[https://www.wyzowl.com/wp-content/uploads/2019/09/YouTube-thumbnail-size-guide-best-practices-top-examples.png](https://www.youtube.com/shorts/zFXho3zLgNE)" width="50%">]([[https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.youtube.com/shorts/zFXho3zLgNE)](https://www.youtube.com/shorts/zFXho3zLgNE) "AndroidExam_M1_IIBDCC_2323 Yahya Ouali Demo: 55")
+[![AndroidExam_M1_IIBDCC_2323 Yahya Ouali Demo: 55]          // Title
+(![image](https://github.com/marshmelloyahya/AndroidExam_M1_IIBDCC_2323/assets/99083781/1e99163b-61fb-4090-923c-e6261a9d3ffe)
+)] // Thumbnail
+(https://youtube.com/shorts/zFXho3zLgNE "AndroidExam_M1_IIBDCC_2323 Yahya Ouali Demo: 55")    // Video Link
 
 
 # Screenshots :
